@@ -1,2 +1,2 @@
 # Django
- Contains Django projects
+ Contains Django applications
